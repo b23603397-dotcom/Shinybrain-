@@ -1,2 +1,1 @@
-# Shinybrain-
-SHINY BRAIN accompagne les élèves finalistes et les étudiants dans leur réussite : bourses d’études, cours, orientation académique, aide aux candidatures, stages, emplois et communauté d’apprentissage. Toutes les opportunités pour construire leur avenir au même endroit.
+SHINY BRAIN empowers high school graduates and university students with scholarships, academic courses, career guidance, application support, internships, job opportunities, and a learning community — everything they need to build a successful future in one place.
